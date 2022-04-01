@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-```class WhoAmI:
+```
+class WhoAmI:
 	user = 'Haany Ali'
    	current_edu = "St. Mary's Group of Institutions"
    	hobbies = [
