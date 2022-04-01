@@ -14,6 +14,10 @@ class WhoAmI {
    	],
    }
    	
+getLocation() {
+   	return isHome ? `Randers, Denmark, ${address}` : "I am out running"
+   }
+	
    Ambitions() {
    	RunMarathon();
    	BuildJavascriptFramework();
