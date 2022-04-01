@@ -14,17 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 ```
 class WhoAmI:
-	user = 'Haany Ali'
-   	current_edu = "St. Mary's Group of Institutions"
+	user = 'Vitaliy Steffensen'
    	hobbies = [
-   			'Drawing',
-   			'Watching Anime',
-   			'Reading Sci-Fi Novels'
-   			'Being up all Night chasing that ONE BUG...'
+   			'Programming',
+   			'Psychology',
+   			'Drinking coffee while programming'
+			'Video editing'
+   			'Being up all night chasing fixing that one bug causing the entire application to crash'
+			'Designing and animating'
+			'More programming'
    		]
    
    def getCity():
