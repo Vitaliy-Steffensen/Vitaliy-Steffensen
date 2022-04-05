@@ -14,7 +14,7 @@ class WhoAmI {
    	],
    }
    	
-getLocation(isHome: boolean) {
+getLocation(isHome: boolean = false) {
    	return isHome ? `Randers, Denmark, ${address}` : "I am out running"
    }
 	
