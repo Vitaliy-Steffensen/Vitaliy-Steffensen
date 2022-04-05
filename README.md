@@ -1,5 +1,5 @@
  ## Who am I?
- ```javascript
+ ```typescript
 class WhoAmI {
 	user = {
    name: 'Vitaliy Steffensen',
@@ -14,7 +14,7 @@ class WhoAmI {
    	],
    }
    	
-getLocation() {
+getLocation(isHome: boolean) {
    	return isHome ? `Randers, Denmark, ${address}` : "I am out running"
    }
 	
