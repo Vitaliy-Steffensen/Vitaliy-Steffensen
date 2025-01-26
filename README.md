@@ -1,28 +1,28 @@
  ## Who am I?
  ```typescript
 class WhoAmI {
-	user = {
-   name: 'Vitaliy Steffensen',
-   hobbies: [
-   		'Programming',
-   		'Psychology',
-   		'Drinking coffee while programming',
-   		'Video edeting',
-   		'Being up all night trying to fix that one bug causing the entire app to crash',
-   		'Designing and animating',
-   		'More programming',
-   	],
-   }
-   	
-getLocation(isHome: boolean = false) {
-   	return isHome ? `Randers, Denmark, ${address}` : "I am out running"
-   }
-	
-   Ambitions() {
-   	RunMarathon();
-   	BuildJavascriptFramework();
-   	BecomeLeadDeveloper();
-   }
-}
-	
+    user = {
+        name: 'Vitaliy Steffensen',
+        skills: [
+            'Full-stack development',
+            'System architecture',
+            'Problem-solving under pressure',
+            'Optimizing performance and scalability',
+            'Mentoring and team leadership',
+            'UI/UX design and prototyping',
+            'Software automation',
+            'Continuous learning and improvement',
+        ],
+    }
+
+    getLocation(isHome: boolean = false) {
+        return isHome ? `Aarhus, Denmark, ${address}` : "Exploring new challenges"
+    }
+
+    ambitions() {
+        BuildInnovativeTechSolutions();
+        LeadEngineeringTeams();
+        AutomatingForEfficiency();
+    }
+}	
  ```
