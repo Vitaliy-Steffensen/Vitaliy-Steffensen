@@ -1,4 +1,17 @@
  ## Who am I?
+<p> 
+  <a href="https://vitaliy.dk"> 
+    <img src="https://img.shields.io/badge/Vitaliy.dk-000000?style=flat&logo=google-chrome&logoColor=white"> 
+  </a> 
+  <a href="https://www.linkedin.com/in/vitaliy-steffensen-04b4b71b1/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white"> 
+  </a> 
+  <a href="https://medium.com/@vitaliysteffensen"> 
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"> 
+  </a> 
+</p>
+
+ 
  ```typescript
 class WhoAmI {
     user = {
@@ -26,6 +39,3 @@ class WhoAmI {
     }
 }	
  ```
-[![Vitlaiy.dk](https://img.shields.io/badge/Website-0088CC?style=flat&logo=google-chrome&logoColor=white)](https://vitaliy.dk)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitaliy-steffensen-04b4b71b1/)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@vitaliysteffensen)  
